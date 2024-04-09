@@ -56,6 +56,10 @@ To run Vonic locally, follow these steps:
 4. Summarize Captions: The application will summarize the generated captions using Google's Gemini API, providing concise summaries of the video content.
 5. Explore Options: Feel free to explore additional options or features provided by the application interface.
 
+## Screenshot
+![Result Screen Shot](./images/screenshot1.png)
+![Result Screen Shot](./images/screenshot2.png)
+
 ## Requirements
 
 Ensure you have the following dependencies installed:
