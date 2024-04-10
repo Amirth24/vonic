@@ -4,7 +4,7 @@ Vonic is a Python-based application built using Streamlit, designed to provide v
 
 ## Features
 
-- **Video Captioning**: Automatically generates captions for uploaded videos using Hugging Face's `openai/whisper-tiny.en` model.
+- **Video Captioning**: Automatically generates captions for uploaded videos using `openai/whisper-tiny.en` model.
 - **Summarization**: Summarizes the generated captions using Google's Gemini, providing concise textual summaries of video content.
 - **Downloadable Captions**: Allows users to download the generated captions in text format for future reference or integration into other applications.
 - **User-Friendly Interface**: Streamlit provides an intuitive and interactive interface for easy navigation and usage of the application.
