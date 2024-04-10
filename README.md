@@ -8,7 +8,6 @@ Vonic is a Python-based application built using Streamlit, designed to provide v
 - **Summarization**: Summarizes the generated captions using Google's Gemini, providing concise textual summaries of video content.
 - **Downloadable Captions**: Allows users to download the generated captions in text format for future reference or integration into other applications.
 - **User-Friendly Interface**: Streamlit provides an intuitive and interactive interface for easy navigation and usage of the application.
-- **Customizable and Extendable**: Users can further customize and extend the application according to their specific needs and requirements.
 
 ## Installation
 
@@ -17,7 +16,7 @@ To run Vonic locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Amirth24/vonic.git
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +53,6 @@ To run Vonic locally, follow these steps:
 2. View Captions: Once the video is uploaded, captions will be automatically generated and displayed alongside the video.
 3. Download Captions: Optionally, you can download the generated captions by clicking on the "Download Captions" button.
 4. Summarize Captions: The application will summarize the generated captions using Google's Gemini API, providing concise summaries of the video content.
-5. Explore Options: Feel free to explore additional options or features provided by the application interface.
 
 ## Screenshot
 ![Result Screen Shot](./images/screenshot1.png)
